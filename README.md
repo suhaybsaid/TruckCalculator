@@ -1,7 +1,5 @@
 # TruckCalculator
 
-# Truck Calculator
-
 A simple Java command line program that replaces manual math when calculating a load's payment. Enter the line haul and fuel charge, and the program calculates the rest automatically.
 
 ## What It Does
